@@ -1,7 +1,7 @@
 from colorama import Fore, Style
 from time import sleep
 from os import system
-from ssmmss import SendSms
+from sms import SendSms
 import threading
 
 servisler_sms = []
